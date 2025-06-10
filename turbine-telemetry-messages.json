@@ -1,0 +1,226 @@
+[
+    {
+        "body": "{\"turbine_id\": \"TURBINE_005\", \"timestamp\": \"2025-05-30T12:55:15.278098Z\", \"output_power\": 6458.2, \"rotor_rpm\": 15.67, \"max_power_limit\": 13683.0, \"voltage\": 642.0, \"current\": 4194.5, \"power_factor\": 0.913}",
+        "offset": "0",
+        "sequenceNumber": 0,
+        "enqueuedTimeUtc": "2025-05-30T12:55:16.106Z",
+        "contentType": "application/json",
+        "partitionId": "0"
+    },
+    {
+        "body": "{\"turbine_id\": \"TURBINE_003\", \"timestamp\": \"2025-05-30T12:55:15.277546Z\", \"output_power\": 9692.1, \"rotor_rpm\": 15.76, \"max_power_limit\": 11437.3, \"voltage\": 610.0, \"current\": 5948.0, \"power_factor\": 0.903}",
+        "offset": "568",
+        "sequenceNumber": 1,
+        "enqueuedTimeUtc": "2025-05-30T12:55:16.106Z",
+        "contentType": "application/json",
+        "partitionId": "0"
+    },
+    {
+        "body": "{\"turbine_id\": \"TURBINE_007\", \"timestamp\": \"2025-05-30T12:55:15.484911Z\", \"output_power\": 9764.2, \"rotor_rpm\": 17.36, \"max_power_limit\": 11078.7, \"voltage\": 627.0, \"current\": 6102.9, \"power_factor\": 0.862}",
+        "offset": "1136",
+        "sequenceNumber": 2,
+        "enqueuedTimeUtc": "2025-05-30T12:55:16.106Z",
+        "contentType": "application/json",
+        "partitionId": "0"
+    },
+    {
+        "body": "{\"turbine_id\": \"TURBINE_007\", \"timestamp\": \"2025-05-30T12:55:35.682510Z\", \"output_power\": 8839.8, \"rotor_rpm\": 16.58, \"max_power_limit\": 11130.6, \"voltage\": 569.0, \"current\": 7893.8, \"power_factor\": 0.839}",
+        "offset": "1704",
+        "sequenceNumber": 3,
+        "enqueuedTimeUtc": "2025-05-30T12:55:36.309Z",
+        "contentType": "application/json",
+        "partitionId": "0"
+    },
+    {
+        "body": "{\"turbine_id\": \"TURBINE_005\", \"timestamp\": \"2025-05-30T12:55:47.672125Z\", \"output_power\": 6194.7, \"rotor_rpm\": 15.35, \"max_power_limit\": 12660.7, \"voltage\": 674.0, \"current\": 4944.3, \"power_factor\": 0.891}",
+        "offset": "2272",
+        "sequenceNumber": 4,
+        "enqueuedTimeUtc": "2025-05-30T12:55:48.278Z",
+        "contentType": "application/json",
+        "partitionId": "0"
+    },
+    {
+        "body": "{\"turbine_id\": \"TURBINE_003\", \"timestamp\": \"2025-05-30T12:55:50.686459Z\", \"output_power\": 8902.4, \"rotor_rpm\": 17.18, \"max_power_limit\": 11360.3, \"voltage\": 606.0, \"current\": 7748.2, \"power_factor\": 0.815}",
+        "offset": "2840",
+        "sequenceNumber": 5,
+        "enqueuedTimeUtc": "2025-05-30T12:55:51.278Z",
+        "contentType": "application/json",
+        "partitionId": "0"
+    },
+    {
+        "body": "{\"turbine_id\": \"TURBINE_003\", \"timestamp\": \"2025-05-30T12:55:57.870322Z\", \"output_power\": 8498.8, \"rotor_rpm\": 18.17, \"max_power_limit\": 11443.8, \"voltage\": 633.0, \"current\": 7579.9, \"power_factor\": 0.889}",
+        "offset": "3408",
+        "sequenceNumber": 6,
+        "enqueuedTimeUtc": "2025-05-30T12:55:58.418Z",
+        "contentType": "application/json",
+        "partitionId": "0"
+    },
+    {
+        "body": "{\"turbine_id\": \"TURBINE_005\", \"timestamp\": \"2025-05-30T12:56:11.845945Z\", \"output_power\": 5708.8, \"rotor_rpm\": 15.92, \"max_power_limit\": 12467.0, \"voltage\": 670.0, \"current\": 5045.9, \"power_factor\": 0.897}",
+        "offset": "3976",
+        "sequenceNumber": 7,
+        "enqueuedTimeUtc": "2025-05-30T12:56:12.434Z",
+        "contentType": "application/json",
+        "partitionId": "0"
+    },
+    {
+        "body": "{\"turbine_id\": \"TURBINE_007\", \"timestamp\": \"2025-05-30T12:56:16.861340Z\", \"output_power\": 9188.6, \"rotor_rpm\": 17.22, \"max_power_limit\": 11207.8, \"voltage\": 529.0, \"current\": 8972.4, \"power_factor\": 0.859}",
+        "offset": "4544",
+        "sequenceNumber": 8,
+        "enqueuedTimeUtc": "2025-05-30T12:56:17.481Z",
+        "contentType": "application/json",
+        "partitionId": "0"
+    },
+    {
+        "body": "{\"turbine_id\": \"TURBINE_007\", \"timestamp\": \"2025-05-30T12:56:27.036775Z\", \"output_power\": 9239.3, \"rotor_rpm\": 16.23, \"max_power_limit\": 11171.8, \"voltage\": 565.0, \"current\": 9196.8, \"power_factor\": 0.815}",
+        "offset": "5112",
+        "sequenceNumber": 9,
+        "enqueuedTimeUtc": "2025-05-30T12:56:27.544Z",
+        "contentType": "application/json",
+        "partitionId": "0"
+    },
+    {
+        "body": "{\"turbine_id\": \"TURBINE_003\", \"timestamp\": \"2025-05-30T12:56:33.031390Z\", \"output_power\": 9015.5, \"rotor_rpm\": 19.94, \"max_power_limit\": 10430.2, \"voltage\": 645.0, \"current\": 8137.3, \"power_factor\": 0.842}",
+        "offset": "5680",
+        "sequenceNumber": 10,
+        "enqueuedTimeUtc": "2025-05-30T12:56:33.684Z",
+        "contentType": "application/json",
+        "partitionId": "0"
+    },
+    {
+        "body": "{\"turbine_id\": \"TURBINE_005\", \"timestamp\": \"2025-05-30T12:56:45.001929Z\", \"output_power\": 5522.6, \"rotor_rpm\": 15.15, \"max_power_limit\": 12378.6, \"voltage\": 631.0, \"current\": 5180.8, \"power_factor\": 0.878}",
+        "offset": "6248",
+        "sequenceNumber": 11,
+        "enqueuedTimeUtc": "2025-05-30T12:56:45.623Z",
+        "contentType": "application/json",
+        "partitionId": "0"
+    },
+    {
+        "body": "{\"turbine_id\": \"TURBINE_004\", \"timestamp\": \"2025-05-30T12:55:15.277811Z\", \"output_power\": 8198.1, \"rotor_rpm\": 12.32, \"max_power_limit\": 8983.7, \"voltage\": 656.0, \"current\": 5130.2, \"power_factor\": 0.885}",
+        "offset": "0",
+        "sequenceNumber": 0,
+        "enqueuedTimeUtc": "2025-05-30T12:55:16.112Z",
+        "contentType": "application/json",
+        "partitionId": "1"
+    },
+    {
+        "body": "{\"turbine_id\": \"TURBINE_006\", \"timestamp\": \"2025-05-30T12:55:15.443431Z\", \"output_power\": 7946.3, \"rotor_rpm\": 18.02, \"max_power_limit\": 11149.6, \"voltage\": 672.0, \"current\": 4950.7, \"power_factor\": 0.863}",
+        "offset": "568",
+        "sequenceNumber": 1,
+        "enqueuedTimeUtc": "2025-05-30T12:55:16.112Z",
+        "contentType": "application/json",
+        "partitionId": "1"
+    },
+    {
+        "body": "{\"turbine_id\": \"TURBINE_001\", \"timestamp\": \"2025-05-30T12:55:15.276579Z\", \"output_power\": 7355.1, \"rotor_rpm\": 15.55, \"max_power_limit\": 12499.4, \"voltage\": 620.0, \"current\": 5088.0, \"power_factor\": 0.822}",
+        "offset": "1136",
+        "sequenceNumber": 2,
+        "enqueuedTimeUtc": "2025-05-30T12:55:16.112Z",
+        "contentType": "application/json",
+        "partitionId": "1"
+    },
+    {
+        "body": "{\"turbine_id\": \"TURBINE_002\", \"timestamp\": \"2025-05-30T12:55:15.277175Z\", \"output_power\": 7497.9, \"rotor_rpm\": 16.22, \"max_power_limit\": 13128.4, \"voltage\": 649.0, \"current\": 4756.3, \"power_factor\": 0.876}",
+        "offset": "1704",
+        "sequenceNumber": 3,
+        "enqueuedTimeUtc": "2025-05-30T12:55:16.112Z",
+        "contentType": "application/json",
+        "partitionId": "1"
+    },
+    {
+        "body": "{\"turbine_id\": \"TURBINE_001\", \"timestamp\": \"2025-05-30T12:55:37.681536Z\", \"output_power\": 7597.2, \"rotor_rpm\": 14.93, \"max_power_limit\": 12317.4, \"voltage\": 566.0, \"current\": 6865.0, \"power_factor\": 0.874}",
+        "offset": "2272",
+        "sequenceNumber": 4,
+        "enqueuedTimeUtc": "2025-05-30T12:55:38.253Z",
+        "contentType": "application/json",
+        "partitionId": "1"
+    },
+    {
+        "body": "{\"turbine_id\": \"TURBINE_004\", \"timestamp\": \"2025-05-30T12:55:51.668606Z\", \"output_power\": 7499.2, \"rotor_rpm\": 12.49, \"max_power_limit\": 8772.3, \"voltage\": 623.0, \"current\": 6458.4, \"power_factor\": 0.857}",
+        "offset": "2840",
+        "sequenceNumber": 5,
+        "enqueuedTimeUtc": "2025-05-30T12:55:52.269Z",
+        "contentType": "application/json",
+        "partitionId": "1"
+    },
+    {
+        "body": "{\"turbine_id\": \"TURBINE_002\", \"timestamp\": \"2025-05-30T12:55:53.665866Z\", \"output_power\": 7890.6, \"rotor_rpm\": 17.5, \"max_power_limit\": 13900.6, \"voltage\": 615.0, \"current\": 6630.8, \"power_factor\": 0.849}",
+        "offset": "3408",
+        "sequenceNumber": 6,
+        "enqueuedTimeUtc": "2025-05-30T12:55:54.254Z",
+        "contentType": "application/json",
+        "partitionId": "1"
+    },
+    {
+        "body": "{\"turbine_id\": \"TURBINE_006\", \"timestamp\": \"2025-05-30T12:56:09.667126Z\", \"output_power\": 7820.6, \"rotor_rpm\": 19.44, \"max_power_limit\": 11286.0, \"voltage\": 621.0, \"current\": 6463.8, \"power_factor\": 0.883}",
+        "offset": "3976",
+        "sequenceNumber": 7,
+        "enqueuedTimeUtc": "2025-05-30T12:56:10.239Z",
+        "contentType": "application/json",
+        "partitionId": "1"
+    },
+    {
+        "body": "{\"turbine_id\": \"TURBINE_004\", \"timestamp\": \"2025-05-30T12:56:12.829798Z\", \"output_power\": 6834.8, \"rotor_rpm\": 12.69, \"max_power_limit\": 8686.0, \"voltage\": 629.0, \"current\": 5969.9, \"power_factor\": 0.939}",
+        "offset": "4544",
+        "sequenceNumber": 8,
+        "enqueuedTimeUtc": "2025-05-30T12:56:13.427Z",
+        "contentType": "application/json",
+        "partitionId": "1"
+    },
+    {
+        "body": "{\"turbine_id\": \"TURBINE_001\", \"timestamp\": \"2025-05-30T12:56:12.864576Z\", \"output_power\": 7314.3, \"rotor_rpm\": 15.69, \"max_power_limit\": 12039.6, \"voltage\": 550.0, \"current\": 6688.3, \"power_factor\": 0.93}",
+        "offset": "5112",
+        "sequenceNumber": 9,
+        "enqueuedTimeUtc": "2025-05-30T12:56:13.427Z",
+        "contentType": "application/json",
+        "partitionId": "1"
+    },
+    {
+        "body": "{\"turbine_id\": \"TURBINE_006\", \"timestamp\": \"2025-05-30T12:56:15.830347Z\", \"output_power\": 7668.4, \"rotor_rpm\": 21.11, \"max_power_limit\": 10303.6, \"voltage\": 621.0, \"current\": 6588.9, \"power_factor\": 0.894}",
+        "offset": "5680",
+        "sequenceNumber": 10,
+        "enqueuedTimeUtc": "2025-05-30T12:56:16.380Z",
+        "contentType": "application/json",
+        "partitionId": "1"
+    },
+    {
+        "body": "{\"turbine_id\": \"TURBINE_006\", \"timestamp\": \"2025-05-30T12:56:27.967838Z\", \"output_power\": 7925.3, \"rotor_rpm\": 21.97, \"max_power_limit\": 9591.6, \"voltage\": 665.0, \"current\": 6715.6, \"power_factor\": 0.866}",
+        "offset": "6248",
+        "sequenceNumber": 11,
+        "enqueuedTimeUtc": "2025-05-30T12:56:28.537Z",
+        "contentType": "application/json",
+        "partitionId": "1"
+    },
+    {
+        "body": "{\"turbine_id\": \"TURBINE_001\", \"timestamp\": \"2025-05-30T12:56:35.010669Z\", \"output_power\": 7036.8, \"rotor_rpm\": 14.45, \"max_power_limit\": 12232.6, \"voltage\": 582.0, \"current\": 6533.4, \"power_factor\": 0.909}",
+        "offset": "6816",
+        "sequenceNumber": 12,
+        "enqueuedTimeUtc": "2025-05-30T12:56:35.553Z",
+        "contentType": "application/json",
+        "partitionId": "1"
+    },
+    {
+        "body": "{\"turbine_id\": \"TURBINE_002\", \"timestamp\": \"2025-05-30T12:56:37.825384Z\", \"output_power\": 8512.9, \"rotor_rpm\": 18.42, \"max_power_limit\": 12866.8, \"voltage\": 600.0, \"current\": 7705.7, \"power_factor\": 0.866}",
+        "offset": "7384",
+        "sequenceNumber": 13,
+        "enqueuedTimeUtc": "2025-05-30T12:56:38.412Z",
+        "contentType": "application/json",
+        "partitionId": "1"
+    },
+    {
+        "body": "{\"turbine_id\": \"TURBINE_004\", \"timestamp\": \"2025-05-30T12:56:38.007133Z\", \"output_power\": 7284.8, \"rotor_rpm\": 11.55, \"max_power_limit\": 8897.8, \"voltage\": 688.0, \"current\": 6098.4, \"power_factor\": 0.859}",
+        "offset": "7952",
+        "sequenceNumber": 14,
+        "enqueuedTimeUtc": "2025-05-30T12:56:38.553Z",
+        "contentType": "application/json",
+        "partitionId": "1"
+    },
+    {
+        "body": "{\"turbine_id\": \"TURBINE_002\", \"timestamp\": \"2025-05-30T12:56:54.996150Z\", \"output_power\": 8394.3, \"rotor_rpm\": 17.33, \"max_power_limit\": 13640.4, \"voltage\": 571.0, \"current\": 8277.0, \"power_factor\": 0.835}",
+        "offset": "8520",
+        "sequenceNumber": 15,
+        "enqueuedTimeUtc": "2025-05-30T12:56:55.631Z",
+        "contentType": "application/json",
+        "partitionId": "1"
+    }
+]
